@@ -55,15 +55,12 @@ main div img{
     margin-top: 0px;
     
 }
-#container{
-width: 45%;
-float: left;
-}
+
 h1{
     font-size: 34px;
     margin-bottom: 30px;
 }
-main div div div{
+main div div {
    
     height: 425px;
     overflow: scroll;
