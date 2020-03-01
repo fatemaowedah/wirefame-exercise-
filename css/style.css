@@ -94,3 +94,6 @@ footer{
     height: 90px;
     clear: both;
 }
+main div div::-webkit-scrollbar {
+    display: none;
+}
